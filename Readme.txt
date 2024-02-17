@@ -8,5 +8,5 @@ License: https://bootstrapmade.com/license/
 
 
 
-this site is created by me (Keshav Verma)
-
+this site is created by me (Jay verma)
+And Remember only I will change it 
